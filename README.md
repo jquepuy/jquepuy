@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.linkedin.com/in/jquepuy/"><img src="./assets/icons/linkedin.svg" /></a>
+    <a href="https://www.linkedin.com/in/jquepuy/"><img height="50px" width="auto" src="./assets/icons/linkedin.svg" /></a>
 </p>
 
 ### Hi there 👋
