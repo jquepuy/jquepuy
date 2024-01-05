@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://www.linkedin.com/in/jquepuy/"><img src="./assets/icons/linkedin.svg" /></a>
+</p>
+
 ### Hi there 👋
 
 <!--
