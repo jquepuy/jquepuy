@@ -1,8 +1,10 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/jquepuy/"><img height="50px" width="auto" src="./assets/icons/linkedin.svg" /></a>
+    <a href="skype:jose.quepuy?userinfo"><img height="50px" width="auto" src="./assets/icons/skype.svg" /></a>
 </p>
 
 ### Hi there 👋
+
 
 <!--
 **jquepuy/jquepuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
