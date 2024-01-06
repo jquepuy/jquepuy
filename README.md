@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" vertical-align="middle">
     <a href="https://www.linkedin.com/in/jquepuy/"><img height="50px" width="auto" src="./assets/icons/linkedin.svg" /></a>
-    <a href="skype:jose.quepuy?userinfo"><img height="48px" width="auto" src="./assets/icons/skype.svg" /></a>
+    <a href="https://join.skype.com/invite/kbhXxpXNNviC"><img height="48px" width="auto" src="./assets/icons/skype.svg" /></a>
 </p>
 
 ### Hi there 👋
